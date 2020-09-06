@@ -1,0 +1,6 @@
+module Pods_NRT_NRTTests {
+  umbrella header "Pods-NRT-NRTTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

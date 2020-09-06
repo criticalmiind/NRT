@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1086906973499",
+    "firebase_url": "https://nrt2-599a9.firebaseio.com",
+    "project_id": "nrt2-599a9",
+    "storage_bucket": "nrt2-599a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086906973499:android:ebbd746e66fb57474b4b1e",
+        "android_client_info": {
+          "package_name": "com.nrt.tv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086906973499-088k1qrbi4v9qajn5opfpkq192ukdnqp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nrt.tv",
+            "certificate_hash": "d385e22354a1ed373977e972efc9bfab1ac89c1e"
+          }
+        },
+        {
+          "client_id": "1086906973499-pq5sk8h14jt229hjtkfq3mg7umrcg8df.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG5CYNgkbk92C3qFXnd3sJ7WiX90xv3LU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086906973499-pq5sk8h14jt229hjtkfq3mg7umrcg8df.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
