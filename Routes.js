@@ -33,7 +33,7 @@ import { createStackNavigator } from "@react-navigation/stack";
 const DrawerNav = createStackNavigator();
 const Stack = createDrawerNavigator();
 function MyStack(props) {
-  return (
+  return (<>
     <Stack.Navigator
       drawerContent={(props) => <SideMenu {...props} />}
       headerMode={"none"}
@@ -72,7 +72,7 @@ function MyStack(props) {
       {/* <Stack.Screen name="DrawerScreen" component={DrawerScreen}/>
                 <Stack.Screen name="AppDrawer" component={AppDrawer} /> */}
     </Stack.Navigator>
-  );
+  </>);
 }
 
 export default function Drawer() {
