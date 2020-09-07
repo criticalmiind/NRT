@@ -7,19 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		00E356F31AD99517003FC87E /* NRTTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* NRTTests.m */; };
+		00E356F31AD99517003FC87E /* NRT2TVTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* NRT2TVTests.m */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		270C222C5056FB1E9096870F /* libPods-NRT.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AAF14D2BCC0CD8FA64F2F596 /* libPods-NRT.a */; };
+		270C222C5056FB1E9096870F /* libPods-NRT2TV.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AAF14D2BCC0CD8FA64F2F596 /* libPods-NRT2TV.a */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		2DCD954D1E0B4F2C00145EB5 /* NRTTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* NRTTests.m */; };
-		840336CFF1CE694C6A6CE541 /* libPods-NRT-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9EFD630A209A0B02DD38EECF /* libPods-NRT-tvOSTests.a */; };
-		889CC9A127B134CABFCF4164 /* libPods-NRT-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5112AFCA7F0E6B5000DC62CF /* libPods-NRT-tvOS.a */; };
-		93EF5155610C64FB9F2882E9 /* libPods-NRT-NRTTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2BB9345B9890EB346069F605 /* libPods-NRT-NRTTests.a */; };
+		2DCD954D1E0B4F2C00145EB5 /* NRT2TVTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* NRT2TVTests.m */; };
+		840336CFF1CE694C6A6CE541 /* libPods-NRT2TV-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9EFD630A209A0B02DD38EECF /* libPods-NRT2TV-tvOSTests.a */; };
+		889CC9A127B134CABFCF4164 /* libPods-NRT2TV-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5112AFCA7F0E6B5000DC62CF /* libPods-NRT2TV-tvOS.a */; };
+		93EF5155610C64FB9F2882E9 /* libPods-NRT2TV-NRT2TVTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2BB9345B9890EB346069F605 /* libPods-NRT2TV-NRT2TVTests.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,40 +28,40 @@
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 13B07F861A680F5B00A75B9A;
-			remoteInfo = NRT;
+			remoteInfo = NRT2TV;
 		};
 		2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 83CBB9F71A601CBA00E9B192 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = 2D02E47A1E0B4A5D006451C7;
-			remoteInfo = "NRT-tvOS";
+			remoteInfo = "NRT2TV-tvOS";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00E356EE1AD99517003FC87E /* NRTTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NRTTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		00E356EE1AD99517003FC87E /* NRT2TVTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = NRT2TVTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		00E356F21AD99517003FC87E /* NRTTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NRTTests.m; sourceTree = "<group>"; };
+		00E356F21AD99517003FC87E /* NRT2TVTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = NRT2TVTests.m; sourceTree = "<group>"; };
 		0D248D007DAC4E5D8D1786C9 /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/native-base/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
-		13B07F961A680F5B00A75B9A /* NRT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NRT.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = NRT/AppDelegate.h; sourceTree = "<group>"; };
-		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = NRT/AppDelegate.m; sourceTree = "<group>"; };
+		13B07F961A680F5B00A75B9A /* NRT2TV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NRT2TV.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = NRT2TV/AppDelegate.h; sourceTree = "<group>"; };
+		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = NRT2TV/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB21A68108700A75B9A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = NRT/Images.xcassets; sourceTree = "<group>"; };
-		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = NRT/Info.plist; sourceTree = "<group>"; };
-		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = NRT/main.m; sourceTree = "<group>"; };
+		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = NRT2TV/Images.xcassets; sourceTree = "<group>"; };
+		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = NRT2TV/Info.plist; sourceTree = "<group>"; };
+		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = NRT2TV/main.m; sourceTree = "<group>"; };
 		22072DE3364D4D87BDD54710 /* Roboto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Roboto.ttf; path = "../node_modules/native-base/Fonts/Roboto.ttf"; sourceTree = "<group>"; };
 		225C3D7E978D4A61AED8BB0B /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/native-base/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
 		2B6809261BD44AFAB00AFCEC /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SimpleLineIcons.ttf; path = "../node_modules/native-base/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
-		2BB9345B9890EB346069F605 /* libPods-NRT-NRTTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-NRT-NRTTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2BDF6B65787F57766E434C15 /* Pods-NRT-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NRT-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-NRT-tvOS/Pods-NRT-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		2D02E47B1E0B4A5D006451C7 /* NRT-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "NRT-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		2D02E4901E0B4A5D006451C7 /* NRT-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "NRT-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BB9345B9890EB346069F605 /* libPods-NRT2TV-NRT2TVTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-NRT2TV-NRT2TVTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BDF6B65787F57766E434C15 /* Pods-NRT2TV-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NRT2TV-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-NRT2TV-tvOS/Pods-NRT2TV-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		2D02E47B1E0B4A5D006451C7 /* NRT2TV-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "NRT2TV-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2D02E4901E0B4A5D006451C7 /* NRT2TV-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "NRT2TV-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		463CD07C2BA74EBAA9B82C85 /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = "../node_modules/native-base/Fonts/Feather.ttf"; sourceTree = "<group>"; };
-		4C4AC0D5768942F0D3F5B37C /* Pods-NRT.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NRT.release.xcconfig"; path = "Target Support Files/Pods-NRT/Pods-NRT.release.xcconfig"; sourceTree = "<group>"; };
-		5112AFCA7F0E6B5000DC62CF /* libPods-NRT-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-NRT-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4C4AC0D5768942F0D3F5B37C /* Pods-NRT2TV.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NRT2TV.release.xcconfig"; path = "Target Support Files/Pods-NRT2TV/Pods-NRT2TV.release.xcconfig"; sourceTree = "<group>"; };
+		5112AFCA7F0E6B5000DC62CF /* libPods-NRT2TV-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-NRT2TV-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5150C48FC6C04FE79BDFF256 /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = "../node_modules/native-base/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
 		52B4CDC05F8B4FACB909294C /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/native-base/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
 		58DCFCAE1B7C41318F8CE92A /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/native-base/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
@@ -69,19 +69,19 @@
 		6C0CCF5D1C2C4CF7A96508A3 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Solid.ttf; path = "../node_modules/native-base/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
 		77E6131AEDAB425CBB03549F /* rubicon-icon-font.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "rubicon-icon-font.ttf"; path = "../node_modules/native-base/Fonts/rubicon-icon-font.ttf"; sourceTree = "<group>"; };
 		7CF4C4F2A8AE444EA4843392 /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/native-base/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
-		8BE99A9293B47476D7B53D35 /* Pods-NRT-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NRT-tvOS.release.xcconfig"; path = "Target Support Files/Pods-NRT-tvOS/Pods-NRT-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		8BE99A9293B47476D7B53D35 /* Pods-NRT2TV-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NRT2TV-tvOS.release.xcconfig"; path = "Target Support Files/Pods-NRT2TV-tvOS/Pods-NRT2TV-tvOS.release.xcconfig"; sourceTree = "<group>"; };
 		8E1187461C8E4B5CAB8494FD /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/native-base/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
-		92A3D6BE117CEC4088DB28D9 /* Pods-NRT.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NRT.debug.xcconfig"; path = "Target Support Files/Pods-NRT/Pods-NRT.debug.xcconfig"; sourceTree = "<group>"; };
-		93DC9B05E2AE4BE6CF47F554 /* Pods-NRT-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NRT-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-NRT-tvOSTests/Pods-NRT-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
-		9537FA61491F811C4FB93327 /* Pods-NRT-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NRT-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-NRT-tvOSTests/Pods-NRT-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		92A3D6BE117CEC4088DB28D9 /* Pods-NRT2TV.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NRT2TV.debug.xcconfig"; path = "Target Support Files/Pods-NRT2TV/Pods-NRT2TV.debug.xcconfig"; sourceTree = "<group>"; };
+		93DC9B05E2AE4BE6CF47F554 /* Pods-NRT2TV-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NRT2TV-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-NRT2TV-tvOSTests/Pods-NRT2TV-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
+		9537FA61491F811C4FB93327 /* Pods-NRT2TV-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NRT2TV-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-NRT2TV-tvOSTests/Pods-NRT2TV-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		98F617BF191A46E6B88D78DC /* Roboto_medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Roboto_medium.ttf; path = "../node_modules/native-base/Fonts/Roboto_medium.ttf"; sourceTree = "<group>"; };
-		9EFD630A209A0B02DD38EECF /* libPods-NRT-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-NRT-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9EFD630A209A0B02DD38EECF /* libPods-NRT2TV-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-NRT2TV-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAE5B81FD1CF4ECAB2167536 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = "../node_modules/native-base/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
-		AAF14D2BCC0CD8FA64F2F596 /* libPods-NRT.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-NRT.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		B02CF0FFF9408D1CFE234C7A /* Pods-NRT-NRTTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NRT-NRTTests.release.xcconfig"; path = "Target Support Files/Pods-NRT-NRTTests/Pods-NRT-NRTTests.release.xcconfig"; sourceTree = "<group>"; };
+		AAF14D2BCC0CD8FA64F2F596 /* libPods-NRT2TV.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-NRT2TV.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B02CF0FFF9408D1CFE234C7A /* Pods-NRT2TV-NRT2TVTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NRT2TV-NRT2TVTests.release.xcconfig"; path = "Target Support Files/Pods-NRT2TV-NRT2TVTests/Pods-NRT2TV-NRT2TVTests.release.xcconfig"; sourceTree = "<group>"; };
 		B92E92B5DDFF41B08FC34CEF /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/native-base/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
 		C85D1BB357B143A6B987276F /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/native-base/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
-		CE400A62D5EB1A191BEA1676 /* Pods-NRT-NRTTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NRT-NRTTests.debug.xcconfig"; path = "Target Support Files/Pods-NRT-NRTTests/Pods-NRT-NRTTests.debug.xcconfig"; sourceTree = "<group>"; };
+		CE400A62D5EB1A191BEA1676 /* Pods-NRT2TV-NRT2TVTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-NRT2TV-NRT2TVTests.debug.xcconfig"; path = "Target Support Files/Pods-NRT2TV-NRT2TVTests/Pods-NRT2TV-NRT2TVTests.debug.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 		EDBF85C310A0443185336156 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = "../node_modules/native-base/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
@@ -93,7 +93,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				93EF5155610C64FB9F2882E9 /* libPods-NRT-NRTTests.a in Frameworks */,
+				93EF5155610C64FB9F2882E9 /* libPods-NRT2TV-NRT2TVTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -101,7 +101,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				270C222C5056FB1E9096870F /* libPods-NRT.a in Frameworks */,
+				270C222C5056FB1E9096870F /* libPods-NRT2TV.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -109,7 +109,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				889CC9A127B134CABFCF4164 /* libPods-NRT-tvOS.a in Frameworks */,
+				889CC9A127B134CABFCF4164 /* libPods-NRT2TV-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -117,20 +117,20 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				840336CFF1CE694C6A6CE541 /* libPods-NRT-tvOSTests.a in Frameworks */,
+				840336CFF1CE694C6A6CE541 /* libPods-NRT2TV-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		00E356EF1AD99517003FC87E /* NRTTests */ = {
+		00E356EF1AD99517003FC87E /* NRT2TVTests */ = {
 			isa = PBXGroup;
 			children = (
-				00E356F21AD99517003FC87E /* NRTTests.m */,
+				00E356F21AD99517003FC87E /* NRT2TVTests.m */,
 				00E356F01AD99517003FC87E /* Supporting Files */,
 			);
-			path = NRTTests;
+			path = NRT2TVTests;
 			sourceTree = "<group>";
 		};
 		00E356F01AD99517003FC87E /* Supporting Files */ = {
@@ -141,7 +141,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		13B07FAE1A68108700A75B9A /* NRT */ = {
+		13B07FAE1A68108700A75B9A /* NRT2TV */ = {
 			isa = PBXGroup;
 			children = (
 				008F07F21AC5B25A0029DE68 /* main.jsbundle */,
@@ -152,7 +152,7 @@
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
 				13B07FB71A68108700A75B9A /* main.m */,
 			);
-			name = NRT;
+			name = NRT2TV;
 			sourceTree = "<group>";
 		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
@@ -160,10 +160,10 @@
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				AAF14D2BCC0CD8FA64F2F596 /* libPods-NRT.a */,
-				2BB9345B9890EB346069F605 /* libPods-NRT-NRTTests.a */,
-				5112AFCA7F0E6B5000DC62CF /* libPods-NRT-tvOS.a */,
-				9EFD630A209A0B02DD38EECF /* libPods-NRT-tvOSTests.a */,
+				AAF14D2BCC0CD8FA64F2F596 /* libPods-NRT2TV.a */,
+				2BB9345B9890EB346069F605 /* libPods-NRT2TV-NRT2TVTests.a */,
+				5112AFCA7F0E6B5000DC62CF /* libPods-NRT2TV-tvOS.a */,
+				9EFD630A209A0B02DD38EECF /* libPods-NRT2TV-tvOSTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -171,14 +171,14 @@
 		37058E82D082B959E4373164 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				92A3D6BE117CEC4088DB28D9 /* Pods-NRT.debug.xcconfig */,
-				4C4AC0D5768942F0D3F5B37C /* Pods-NRT.release.xcconfig */,
-				CE400A62D5EB1A191BEA1676 /* Pods-NRT-NRTTests.debug.xcconfig */,
-				B02CF0FFF9408D1CFE234C7A /* Pods-NRT-NRTTests.release.xcconfig */,
-				2BDF6B65787F57766E434C15 /* Pods-NRT-tvOS.debug.xcconfig */,
-				8BE99A9293B47476D7B53D35 /* Pods-NRT-tvOS.release.xcconfig */,
-				93DC9B05E2AE4BE6CF47F554 /* Pods-NRT-tvOSTests.debug.xcconfig */,
-				9537FA61491F811C4FB93327 /* Pods-NRT-tvOSTests.release.xcconfig */,
+				92A3D6BE117CEC4088DB28D9 /* Pods-NRT2TV.debug.xcconfig */,
+				4C4AC0D5768942F0D3F5B37C /* Pods-NRT2TV.release.xcconfig */,
+				CE400A62D5EB1A191BEA1676 /* Pods-NRT2TV-NRT2TVTests.debug.xcconfig */,
+				B02CF0FFF9408D1CFE234C7A /* Pods-NRT2TV-NRT2TVTests.release.xcconfig */,
+				2BDF6B65787F57766E434C15 /* Pods-NRT2TV-tvOS.debug.xcconfig */,
+				8BE99A9293B47476D7B53D35 /* Pods-NRT2TV-tvOS.release.xcconfig */,
+				93DC9B05E2AE4BE6CF47F554 /* Pods-NRT2TV-tvOSTests.debug.xcconfig */,
+				9537FA61491F811C4FB93327 /* Pods-NRT2TV-tvOSTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -193,9 +193,9 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
-				13B07FAE1A68108700A75B9A /* NRT */,
+				13B07FAE1A68108700A75B9A /* NRT2TV */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
-				00E356EF1AD99517003FC87E /* NRTTests */,
+				00E356EF1AD99517003FC87E /* NRT2TVTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				B24CA29E14D744E5AAA5E8AE /* Resources */,
@@ -209,10 +209,10 @@
 		83CBBA001A601CBA00E9B192 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				13B07F961A680F5B00A75B9A /* NRT.app */,
-				00E356EE1AD99517003FC87E /* NRTTests.xctest */,
-				2D02E47B1E0B4A5D006451C7 /* NRT-tvOS.app */,
-				2D02E4901E0B4A5D006451C7 /* NRT-tvOSTests.xctest */,
+				13B07F961A680F5B00A75B9A /* NRT2TV.app */,
+				00E356EE1AD99517003FC87E /* NRT2TVTests.xctest */,
+				2D02E47B1E0B4A5D006451C7 /* NRT2TV-tvOS.app */,
+				2D02E4901E0B4A5D006451C7 /* NRT2TV-tvOSTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -246,9 +246,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		00E356ED1AD99517003FC87E /* NRTTests */ = {
+		00E356ED1AD99517003FC87E /* NRT2TVTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "NRTTests" */;
+			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "NRT2TVTests" */;
 			buildPhases = (
 				5462DC74A122075ED6A6AD5E /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
@@ -261,14 +261,14 @@
 			dependencies = (
 				00E356F51AD99517003FC87E /* PBXTargetDependency */,
 			);
-			name = NRTTests;
-			productName = NRTTests;
-			productReference = 00E356EE1AD99517003FC87E /* NRTTests.xctest */;
+			name = NRT2TVTests;
+			productName = NRT2TVTests;
+			productReference = 00E356EE1AD99517003FC87E /* NRT2TVTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		13B07F861A680F5B00A75B9A /* NRT */ = {
+		13B07F861A680F5B00A75B9A /* NRT2TV */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "NRT" */;
+			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "NRT2TV" */;
 			buildPhases = (
 				C56AF64D862471708C0B2E78 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
@@ -282,14 +282,14 @@
 			);
 			dependencies = (
 			);
-			name = NRT;
-			productName = NRT;
-			productReference = 13B07F961A680F5B00A75B9A /* NRT.app */;
+			name = NRT2TV;
+			productName = NRT2TV;
+			productReference = 13B07F961A680F5B00A75B9A /* NRT2TV.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E47A1E0B4A5D006451C7 /* NRT-tvOS */ = {
+		2D02E47A1E0B4A5D006451C7 /* NRT2TV-tvOS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "NRT-tvOS" */;
+			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "NRT2TV-tvOS" */;
 			buildPhases = (
 				166788461CDF8070C9BF15E7 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
@@ -302,14 +302,14 @@
 			);
 			dependencies = (
 			);
-			name = "NRT-tvOS";
-			productName = "NRT-tvOS";
-			productReference = 2D02E47B1E0B4A5D006451C7 /* NRT-tvOS.app */;
+			name = "NRT2TV-tvOS";
+			productName = "NRT2TV-tvOS";
+			productReference = 2D02E47B1E0B4A5D006451C7 /* NRT2TV-tvOS.app */;
 			productType = "com.apple.product-type.application";
 		};
-		2D02E48F1E0B4A5D006451C7 /* NRT-tvOSTests */ = {
+		2D02E48F1E0B4A5D006451C7 /* NRT2TV-tvOSTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "NRT-tvOSTests" */;
+			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "NRT2TV-tvOSTests" */;
 			buildPhases = (
 				DFF623CB04DE1BB0E102A6B7 /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
@@ -321,9 +321,9 @@
 			dependencies = (
 				2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */,
 			);
-			name = "NRT-tvOSTests";
-			productName = "NRT-tvOSTests";
-			productReference = 2D02E4901E0B4A5D006451C7 /* NRT-tvOSTests.xctest */;
+			name = "NRT2TV-tvOSTests";
+			productName = "NRT2TV-tvOSTests";
+			productReference = 2D02E4901E0B4A5D006451C7 /* NRT2TV-tvOSTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -353,7 +353,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "NRT" */;
+			buildConfigurationList = 83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "NRT2TV" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -366,10 +366,10 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				13B07F861A680F5B00A75B9A /* NRT */,
-				00E356ED1AD99517003FC87E /* NRTTests */,
-				2D02E47A1E0B4A5D006451C7 /* NRT-tvOS */,
-				2D02E48F1E0B4A5D006451C7 /* NRT-tvOSTests */,
+				13B07F861A680F5B00A75B9A /* NRT2TV */,
+				00E356ED1AD99517003FC87E /* NRT2TVTests */,
+				2D02E47A1E0B4A5D006451C7 /* NRT2TV-tvOS */,
+				2D02E48F1E0B4A5D006451C7 /* NRT2TV-tvOSTests */,
 			);
 		};
 /* End PBXProject section */
@@ -438,7 +438,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-NRT-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-NRT2TV-tvOS-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -465,7 +465,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-NRT/Pods-NRT-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-NRT2TV/Pods-NRT2TV-resources.sh",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
@@ -504,7 +504,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-NRT/Pods-NRT-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-NRT2TV/Pods-NRT2TV-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		5462DC74A122075ED6A6AD5E /* [CP] Check Pods Manifest.lock */ = {
@@ -522,7 +522,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-NRT-NRTTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-NRT2TV-NRT2TVTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -544,7 +544,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-NRT-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-NRT2TV-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -557,7 +557,7 @@
 			files = (
 			);
 			inputPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-NRT-NRTTests/Pods-NRT-NRTTests-resources.sh",
+				"${PODS_ROOT}/Target Support Files/Pods-NRT2TV-NRT2TVTests/Pods-NRT2TV-NRT2TVTests-resources.sh",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/Entypo.ttf",
 				"${PODS_ROOT}/../../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf",
@@ -596,7 +596,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-NRT-NRTTests/Pods-NRT-NRTTests-resources.sh\"\n";
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-NRT2TV-NRT2TVTests/Pods-NRT2TV-NRT2TVTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		DFF623CB04DE1BB0E102A6B7 /* [CP] Check Pods Manifest.lock */ = {
@@ -614,7 +614,7 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-NRT-tvOSTests-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-NRT2TV-tvOSTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -666,7 +666,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				00E356F31AD99517003FC87E /* NRTTests.m in Sources */,
+				00E356F31AD99517003FC87E /* NRT2TVTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -692,7 +692,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2DCD954D1E0B4F2C00145EB5 /* NRTTests.m in Sources */,
+				2DCD954D1E0B4F2C00145EB5 /* NRT2TVTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -701,12 +701,12 @@
 /* Begin PBXTargetDependency section */
 		00E356F51AD99517003FC87E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 13B07F861A680F5B00A75B9A /* NRT */;
+			target = 13B07F861A680F5B00A75B9A /* NRT2TV */;
 			targetProxy = 00E356F41AD99517003FC87E /* PBXContainerItemProxy */;
 		};
 		2D02E4921E0B4A5D006451C7 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 2D02E47A1E0B4A5D006451C7 /* NRT-tvOS */;
+			target = 2D02E47A1E0B4A5D006451C7 /* NRT2TV-tvOS */;
 			targetProxy = 2D02E4911E0B4A5D006451C7 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -718,7 +718,7 @@
 				13B07FB21A68108700A75B9A /* Base */,
 			);
 			name = LaunchScreen.xib;
-			path = NRT;
+			path = NRT2TV;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -726,14 +726,14 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = CE400A62D5EB1A191BEA1676 /* Pods-NRT-NRTTests.debug.xcconfig */;
+			baseConfigurationReference = CE400A62D5EB1A191BEA1676 /* Pods-NRT2TV-NRT2TVTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = NRTTests/Info.plist;
+				INFOPLIST_FILE = NRT2TVTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -743,17 +743,17 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NRT.app/NRT";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NRT2TV.app/NRT2TV";
 			};
 			name = Debug;
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B02CF0FFF9408D1CFE234C7A /* Pods-NRT-NRTTests.release.xcconfig */;
+			baseConfigurationReference = B02CF0FFF9408D1CFE234C7A /* Pods-NRT2TV-NRT2TVTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
-				INFOPLIST_FILE = NRTTests/Info.plist;
+				INFOPLIST_FILE = NRT2TVTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -763,13 +763,13 @@
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NRT.app/NRT";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NRT2TV.app/NRT2TV";
 			};
 			name = Release;
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 92A3D6BE117CEC4088DB28D9 /* Pods-NRT.debug.xcconfig */;
+			baseConfigurationReference = 92A3D6BE117CEC4088DB28D9 /* Pods-NRT2TV.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -780,7 +780,7 @@
 					"$(inherited)",
 					"FB_SONARKIT_ENABLED=1",
 				);
-				INFOPLIST_FILE = NRT/Info.plist;
+				INFOPLIST_FILE = NRT2TV/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				ONLY_ACTIVE_ARCH = YES;
 				OTHER_LDFLAGS = (
@@ -788,8 +788,8 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = NRT;
+				PRODUCT_BUNDLE_IDENTIFIER = org.nrt2tv.hadi;
+				PRODUCT_NAME = NRT2TV;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -798,13 +798,13 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4C4AC0D5768942F0D3F5B37C /* Pods-NRT.release.xcconfig */;
+			baseConfigurationReference = 4C4AC0D5768942F0D3F5B37C /* Pods-NRT2TV.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = ALDD4AX2T2;
-				INFOPLIST_FILE = NRT/Info.plist;
+				INFOPLIST_FILE = NRT2TV/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				ONLY_ACTIVE_ARCH = NO;
 				OTHER_LDFLAGS = (
@@ -812,8 +812,8 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
-				PRODUCT_NAME = NRT;
+				PRODUCT_BUNDLE_IDENTIFIER = org.nrt2tv.hadi;
+				PRODUCT_NAME = NRT2TV;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -821,7 +821,7 @@
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2BDF6B65787F57766E434C15 /* Pods-NRT-tvOS.debug.xcconfig */;
+			baseConfigurationReference = 2BDF6B65787F57766E434C15 /* Pods-NRT2TV-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -832,14 +832,14 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "NRT-tvOS/Info.plist";
+				INFOPLIST_FILE = "NRT2TV-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.NRT-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.NRT2TV-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -849,7 +849,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8BE99A9293B47476D7B53D35 /* Pods-NRT-tvOS.release.xcconfig */;
+			baseConfigurationReference = 8BE99A9293B47476D7B53D35 /* Pods-NRT2TV-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -860,14 +860,14 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "NRT-tvOS/Info.plist";
+				INFOPLIST_FILE = "NRT2TV-tvOS/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.NRT-tvOS";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.NRT2TV-tvOS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
 				TARGETED_DEVICE_FAMILY = 3;
@@ -877,7 +877,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 93DC9B05E2AE4BE6CF47F554 /* Pods-NRT-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = 93DC9B05E2AE4BE6CF47F554 /* Pods-NRT2TV-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -887,24 +887,24 @@
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "NRT-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "NRT2TV-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.NRT-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.NRT2TV-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NRT-tvOS.app/NRT-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NRT2TV-tvOS.app/NRT2TV-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Debug;
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9537FA61491F811C4FB93327 /* Pods-NRT-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = 9537FA61491F811C4FB93327 /* Pods-NRT2TV-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -914,17 +914,17 @@
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "NRT-tvOSTests/Info.plist";
+				INFOPLIST_FILE = "NRT2TV-tvOSTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				OTHER_LDFLAGS = (
 					"$(inherited)",
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.NRT-tvOSTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.NRT2TV-tvOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = appletvos;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NRT-tvOS.app/NRT-tvOS";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/NRT2TV-tvOS.app/NRT2TV-tvOS";
 				TVOS_DEPLOYMENT_TARGET = 10.1;
 			};
 			name = Release;
@@ -1045,7 +1045,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "NRTTests" */ = {
+		00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "NRT2TVTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				00E356F61AD99517003FC87E /* Debug */,
@@ -1054,7 +1054,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "NRT" */ = {
+		13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "NRT2TV" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				13B07F941A680F5B00A75B9A /* Debug */,
@@ -1063,7 +1063,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "NRT-tvOS" */ = {
+		2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "NRT2TV-tvOS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4971E0B4A5E006451C7 /* Debug */,
@@ -1072,7 +1072,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "NRT-tvOSTests" */ = {
+		2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "NRT2TV-tvOSTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				2D02E4991E0B4A5E006451C7 /* Debug */,
@@ -1081,7 +1081,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "NRT" */ = {
+		83CBB9FA1A601CBA00E9B192 /* Build configuration list for PBXProject "NRT2TV" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				83CBBA201A601CBA00E9B192 /* Debug */,

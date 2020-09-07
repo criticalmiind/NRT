@@ -1,0 +1,6 @@
+module Pods_NRT2TV_NRT2TVTests {
+  umbrella header "Pods-NRT2TV-NRT2TVTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

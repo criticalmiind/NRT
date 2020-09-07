@@ -46,8 +46,8 @@ def flipper_post_install(installer)
   end
 end
 
-target 'NRT' do
-  # Pods for NRT
+target 'NRT2TV' do
+  # Pods for NRT2TV
   pod 'FBLazyVector', :path => "../node_modules/react-native/Libraries/FBLazyVector"
   pod 'FBReactNativeSpec', :path => "../node_modules/react-native/Libraries/FBReactNativeSpec"
   pod 'RCTRequired', :path => "../node_modules/react-native/Libraries/RCTRequired"
@@ -79,7 +79,7 @@ target 'NRT' do
   pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
 
-  target 'NRTTests' do
+  target 'NRT2TVTests' do
     inherit! :complete
     # Pods for testing
   end
@@ -96,10 +96,10 @@ target 'NRT' do
   end
 end
 
-target 'NRT-tvOS' do
-  # Pods for NRT-tvOS
+target 'NRT2TV-tvOS' do
+  # Pods for NRT2TV-tvOS
 
-  target 'NRT-tvOSTests' do
+  target 'NRT2TV-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end

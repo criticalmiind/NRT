@@ -1,6 +1,0 @@
-module Pods_NRT {
-  umbrella header "Pods-NRT-umbrella.h"
-
-  export *
-  module * { export * }
-}

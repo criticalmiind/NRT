@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_NRT_NRTTestsVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_NRT_NRTTestsVersionString[];
+FOUNDATION_EXPORT double Pods_NRT2TV_NRT2TVTestsVersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_NRT2TV_NRT2TVTestsVersionString[];
 
